@@ -36,6 +36,12 @@ body {
     margin-bottom: 90px;
 }
 
+.carosel-img{
+    height: 640px;
+    width: 478px;
+    img-responsive;
+}
+
 h3.a {
     color: white;
     text-shadow: black 0.1em 0.1em 0.2em
